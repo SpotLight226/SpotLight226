@@ -1,4 +1,4 @@
-### Hi there 👋
+### 개발자를 목표로하는 사람 👋
 
 <!--
 **SpotLight226/SpotLight226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ <img src="https://img.shields.io/badge/백준-3178C6?style=flat&logo=#4479A1&logoColor=white"/>
