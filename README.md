@@ -1,4 +1,4 @@
-### 개발자를 목표로하는 사람 👋
+### 백엔드 개발자를 향하여 ✨
 
 <!--
 **SpotLight226/SpotLight226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
